@@ -1,0 +1,41 @@
+.claseDiv{
+    height: 340px;
+    width: 250px;
+    background-color:whitesmoke;
+    margin-top: 198px;
+    padding: 40px;
+    border-radius: 15px;
+}
+
+/* Se utilizo Section style="justify-content: center;display: flex;" por lo que ya no es necesario usar para 
+centrar la caja.
+    margin-left: 500px;
+    margin-bottom: 450px;
+>*/
+body{
+    background-color: rgba(130, 207, 140, 0.63);
+}
+
+
+h2{
+    color:rgba(0, 0, 0, 0.473)
+}
+
+h2,p,button{
+    margin-left: 50px;
+    font-family: 'Mulish', sans-serif;}
+p{
+    color:rgba(128, 128, 128, 0.788)
+    
+}
+
+.frutas{
+
+
+    color:rgb(48, 49, 49);
+    background-color:rgb(255, 253, 253);
+    border-radius: 30px;
+    height: 45px;
+    width:150px;
+    text-align: center;
+}
